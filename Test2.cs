@@ -9,7 +9,5 @@ class Test2
         int z = (int)(x / y);
         Console.WriteLine("Integer Outcome of x/y:" + z);
         Console.WriteLine(sizeof(byte));
-
-        
     }
 }
